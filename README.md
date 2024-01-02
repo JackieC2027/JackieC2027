@@ -1,7 +1,7 @@
 ### Hey y'all, I'm Jackie!
 
   - 🐉 I'm a sophomore studying Software Engineering at Drexel University
-  - 💻 Technical expertise includes Python, Swift, Java, and C++
+  - 💻 Technical expertise includes Python, Swift, Java
   - 💥 Thrilled to explore new domains and meet some amazing people!
   - 📲 Contact email: jc51887@gmail.com
 <hr></hr>
