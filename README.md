@@ -1,6 +1,6 @@
 ### Hey y'all, I'm Jackie!
 
-  - 🐉 I'm a sophomore studying Software Engineering at Drexel University
+  - 🐉 I'm a third-year studying Software Engineering at Drexel University
   - 💻 Technical expertise includes Python, Go, Java
   - 💥 Thrilled to explore new domains and meet some amazing people!
   - 📲 Contact email: jc51887@gmail.com
